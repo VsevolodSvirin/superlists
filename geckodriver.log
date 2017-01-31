@@ -30,3 +30,23 @@
 1485862814986	mozprofile::profile	INFO	Using profile path /var/folders/x7/7_jbm_ln6ql5l6297ng_9stc0000gw/T/rust_mozprofile.AmfNgxxbieIP
 1485862814987	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
 1485862814989	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52248
+1485865355912	geckodriver	INFO	Listening on 127.0.0.1:52459
+1485865356920	mozprofile::profile	INFO	Using profile path /var/folders/x7/7_jbm_ln6ql5l6297ng_9stc0000gw/T/rust_mozprofile.3ZdDRmkbYsOH
+1485865356921	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485865356923	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52468
+1485865395014	geckodriver	INFO	Listening on 127.0.0.1:52504
+1485865396022	mozprofile::profile	INFO	Using profile path /var/folders/x7/7_jbm_ln6ql5l6297ng_9stc0000gw/T/rust_mozprofile.CQzK9XQ8zAGD
+1485865396023	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485865396025	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52510
+1485865515028	geckodriver	INFO	Listening on 127.0.0.1:52547
+1485865516036	mozprofile::profile	INFO	Using profile path /var/folders/x7/7_jbm_ln6ql5l6297ng_9stc0000gw/T/rust_mozprofile.JjBawR0fotQr
+1485865516037	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485865516039	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52556
+1485865569216	geckodriver	INFO	Listening on 127.0.0.1:52596
+1485865570223	mozprofile::profile	INFO	Using profile path /var/folders/x7/7_jbm_ln6ql5l6297ng_9stc0000gw/T/rust_mozprofile.VO88uyZ5xjvg
+1485865570224	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485865570226	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52605
+1485865914543	geckodriver	INFO	Listening on 127.0.0.1:52669
+1485865915551	mozprofile::profile	INFO	Using profile path /var/folders/x7/7_jbm_ln6ql5l6297ng_9stc0000gw/T/rust_mozprofile.oy9PUUvQUqFD
+1485865915552	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485865915553	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52678

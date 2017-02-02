@@ -789,3 +789,39 @@ JavaScript error: , line 0: StaleElementReferenceError: The element reference is
 1485955937895	mozprofile::profile	INFO	Using profile path /var/folders/x7/7_jbm_ln6ql5l6297ng_9stc0000gw/T/rust_mozprofile.WPS459vRjTs2
 1485955937896	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
 1485955937897	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60352
+1485957514343	geckodriver	INFO	Listening on 127.0.0.1:60441
+1485957515346	mozprofile::profile	INFO	Using profile path /var/folders/x7/7_jbm_ln6ql5l6297ng_9stc0000gw/T/rust_mozprofile.rxOHhZp0KzFE
+1485957515348	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485957515349	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60447
+1485957523942	geckodriver	INFO	Listening on 127.0.0.1:60488
+1485957524947	mozprofile::profile	INFO	Using profile path /var/folders/x7/7_jbm_ln6ql5l6297ng_9stc0000gw/T/rust_mozprofile.mNgysUQSGqlJ
+1485957524948	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485957524950	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60494
+1485957528607	geckodriver	INFO	Listening on 127.0.0.1:60522
+1485957529610	mozprofile::profile	INFO	Using profile path /var/folders/x7/7_jbm_ln6ql5l6297ng_9stc0000gw/T/rust_mozprofile.ahnyvBbmB7Y5
+1485957529612	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485957529614	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60528
+1486025571527	geckodriver	INFO	Listening on 127.0.0.1:51537
+1486025572598	mozprofile::profile	INFO	Using profile path /var/folders/x7/7_jbm_ln6ql5l6297ng_9stc0000gw/T/rust_mozprofile.JzaP2oEqf4ok
+1486025572599	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486025572735	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51546
+1486025577662	geckodriver	INFO	Listening on 127.0.0.1:51606
+1486025578662	mozprofile::profile	INFO	Using profile path /var/folders/x7/7_jbm_ln6ql5l6297ng_9stc0000gw/T/rust_mozprofile.VyWjeTah2n3r
+1486025578663	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486025578665	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51615
+1486025580561	geckodriver	INFO	Listening on 127.0.0.1:51641
+1486025581568	mozprofile::profile	INFO	Using profile path /var/folders/x7/7_jbm_ln6ql5l6297ng_9stc0000gw/T/rust_mozprofile.QkMYSvWL7kdS
+1486025581569	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486025581571	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51650
+1486025704005	geckodriver	INFO	Listening on 127.0.0.1:51669
+1486025705008	mozprofile::profile	INFO	Using profile path /var/folders/x7/7_jbm_ln6ql5l6297ng_9stc0000gw/T/rust_mozprofile.6w0IMjeKoo0Q
+1486025705009	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486025705011	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51678
+1486025707023	geckodriver	INFO	Listening on 127.0.0.1:51702
+1486025708026	mozprofile::profile	INFO	Using profile path /var/folders/x7/7_jbm_ln6ql5l6297ng_9stc0000gw/T/rust_mozprofile.hLHaQvUX6YOn
+1486025708027	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486025708029	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51708
+1486025709924	geckodriver	INFO	Listening on 127.0.0.1:51732
+1486025710931	mozprofile::profile	INFO	Using profile path /var/folders/x7/7_jbm_ln6ql5l6297ng_9stc0000gw/T/rust_mozprofile.nt8khfQQi39n
+1486025710932	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486025710935	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51741
